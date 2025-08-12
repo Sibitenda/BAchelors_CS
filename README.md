@@ -1,9 +1,3 @@
-# BAchelors_CS
-Got it — I’ll turn this into a clean, ready-to-use **Markdown (.md)** file so it’s GitHub/LMS friendly.
-Here’s the **`BSIT63101_Practicals.md`** content:
-
----
-
 ````markdown
 # BSIT 63101 – Data Mining and Business Intelligence
 ## Practical Lesson Plan
@@ -187,24 +181,3 @@ Each week includes clear goals, practical exercises, and suggested tools.
 
 ---
 
-**Repository Structure Example:**
-
-```
-/BSIT63101
-│
-├── Week1_Intro/
-│   ├── dataset.csv
-│   ├── week1_lab.ipynb
-│
-├── Week2_Preprocessing/
-│   ├── preprocessing_lab.ipynb
-│
-├── Week3_Classification/
-│   ├── classification_lab.ipynb
-│
-...
-├── Capstone_Project/
-│   ├── project_guidelines.md
-│   ├── sample_report.pdf
-
-```
