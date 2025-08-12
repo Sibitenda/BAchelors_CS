@@ -78,5 +78,3 @@
 
 ---
 
-Do you want me to make **offline-ready dataset links** for Week 2?
-```
