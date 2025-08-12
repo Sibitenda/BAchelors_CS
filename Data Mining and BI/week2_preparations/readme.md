@@ -57,14 +57,14 @@
    scaler = MinMaxScaler()
    df[['Age', 'Fare']] = scaler.fit_transform(df[['Age', 'Fare']])
    ```
----
+
 5. **Basic EDA**
 
    ```python
    import seaborn as sns
    sns.heatmap(df.corr(), annot=True, cmap='coolwarm')
    ```
----
+
 
 #### **4. Submission**
 
