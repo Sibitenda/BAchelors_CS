@@ -44,6 +44,7 @@
    df['Age'].fillna(df['Age'].mean(), inplace=True)
    ```
 ---
+
 3. **Encoding Categorical Variables**
 
    ```python
@@ -64,7 +65,6 @@
    import seaborn as sns
    sns.heatmap(df.corr(), annot=True, cmap='coolwarm')
    ```
-
 ---
 
 #### **4. Submission**
