@@ -1,4 +1,3 @@
-````markdown
 # BSIT 63101 – Data Mining and Business Intelligence
 ## Practical Lesson Plan
 
@@ -39,7 +38,6 @@ Each week includes clear goals, practical exercises, and suggested tools.
    print(df.describe())
 ````
 
----
 
 ### **Week 2 – Data Preprocessing & Exploration**
 
