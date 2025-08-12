@@ -5,14 +5,13 @@
 
 #### **1. Free PowerPoint Slides**
 - **“Data Preprocessing in Data Mining”** – Covers handling missing values, outlier detection, normalization, and encoding.  
-  [https://www.slideshare.net/slideshow/data-preprocessing-in-data-mining/266348091](https://www.slideshare.net/slideshow/data-preprocessing-in-data-mining/266348091)
+  
 
 - **“Exploratory Data Analysis (EDA) in Python”** – Practical examples with pandas, matplotlib, seaborn.  
-  [https://www.slideshare.net/slideshow/exploratory-data-analysis-eda-using-python/256529403](https://www.slideshare.net/slideshow/exploratory-data-analysis-eda-using-python/256529403)
+  
 
 - **“Data Cleaning and Preprocessing”** – Brief slides on data quality, transformation, and integration.  
-  [https://www.slideshare.net/slideshow/data-cleaning-and-preprocessing/266026421](https://www.slideshare.net/slideshow/data-cleaning-and-preprocessing/266026421)
-
+ 
 ---
 
 #### **2. Dataset Suggestions (Free & Open)**
