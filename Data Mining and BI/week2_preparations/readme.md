@@ -10,9 +10,8 @@
 - **“Exploratory Data Analysis (EDA) in Python”** – Practical examples with pandas, matplotlib, seaborn.  
   
 
-- **“Data Cleaning and Preprocessing”** – Brief slides on data quality, transformation, and integration.  
- 
----
+- **“Data Cleaning and Preprocessing”** – Brief slides on data quality, transformation, and integration.
+  
 
 #### **2. Dataset Suggestions (Free & Open)**
 - **Titanic Dataset** (Kaggle, CSV format) – Ideal for missing value handling, encoding categorical features.  
@@ -24,7 +23,7 @@
 - **Adult Income Dataset** (UCI) – Best for encoding categorical variables and scaling.  
   [https://archive.ics.uci.edu/ml/datasets/adult](https://archive.ics.uci.edu/ml/datasets/adult)
 
----
+
 
 #### **3. Practical Activities**
 1. **Loading Data**
