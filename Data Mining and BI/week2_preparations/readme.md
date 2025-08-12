@@ -31,8 +31,8 @@
    import pandas as pd
    df = pd.read_csv('titanic.csv')
    df.head()
-  ````
----
+   ```
+
 2. **Handling Missing Values**
 
    ```python
@@ -42,14 +42,14 @@
    # Or fill missing
    df['Age'].fillna(df['Age'].mean(), inplace=True)
    ```
----
+
 
 3. **Encoding Categorical Variables**
 
    ```python
    df = pd.get_dummies(df, columns=['Sex', 'Embarked'])
    ```
----
+
 4. **Normalizing Data**
 
    ```python
