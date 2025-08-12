@@ -32,7 +32,7 @@
    import pandas as pd
    df = pd.read_csv('titanic.csv')
    df.head()
-````
+  ````
 
 2. **Handling Missing Values**
 
