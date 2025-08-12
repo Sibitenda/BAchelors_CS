@@ -30,14 +30,7 @@ Each week includes clear goals, practical exercises, and suggested tools.
 1. Install Anaconda and set up Jupyter Notebook.
 2. Clone course GitHub repository.
 3. Load a sample dataset and display basic info:
-   ```python
-   import pandas as pd
-   df = pd.read_csv('dataset.csv')
-   print(df.head())
-   print(df.shape)
-   print(df.describe())
-````
-
+---
 
 ### **Week 2 – Data Preprocessing & Exploration**
 
