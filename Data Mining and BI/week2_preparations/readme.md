@@ -33,7 +33,7 @@
    df = pd.read_csv('titanic.csv')
    df.head()
   ````
-
+---
 2. **Handling Missing Values**
 
    ```python
@@ -43,13 +43,13 @@
    # Or fill missing
    df['Age'].fillna(df['Age'].mean(), inplace=True)
    ```
-
+---
 3. **Encoding Categorical Variables**
 
    ```python
    df = pd.get_dummies(df, columns=['Sex', 'Embarked'])
    ```
-
+---
 4. **Normalizing Data**
 
    ```python
@@ -57,7 +57,7 @@
    scaler = MinMaxScaler()
    df[['Age', 'Fare']] = scaler.fit_transform(df[['Age', 'Fare']])
    ```
-
+---
 5. **Basic EDA**
 
    ```python
